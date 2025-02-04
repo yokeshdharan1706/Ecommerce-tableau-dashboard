@@ -1,8 +1,10 @@
-#Project Overview
+**#Project Overview**
+
 This Ecommerce Sales Dashboard provides a comprehensive Year-to-Date (YTD) Sales Analysis using Tableau. It enables users to track key performance metrics, 
 compare sales trends, and analyze market performance across different regions and product categories.
 
-#Dataset Description
+**#Dataset Description**
+
 The dataset used for this dashboard is stored in Ecommerce.xlsx, which contains transactional sales data with attributes such as:
 
 Order Date – Date of the transaction
@@ -17,8 +19,9 @@ Market – Region of sale (Europe, LATAM, Africa, etc.)
 
 Category Name – Product category
 
-#Dashboard Features
-KPIs and Metrics
+**#Dashboard Features**
+
+**KPIs and Metrics**
 
 Total Sales ($14.11M) – Overall revenue
 
@@ -28,7 +31,7 @@ Total Order Quantity ($0.16M) – Units sold
 
 YTD vs PY (Previous Year) Comparison – % change in sales, profit, and quantity
 
-Visualizations Included
+**Visualizations Included**
 
 Sales Trend Line – Visualizes the fluctuation of sales over time.
 
@@ -42,14 +45,15 @@ Category Wise YTD vs PYTD Sales (Bar Chart) – Comparison of sales between curr
 
 Market Wise Customer Acquisition Per Month (Line Chart) – Tracks customer growth trends by region.
 
-#Potential Enhancements
+**#Potential Enhancements**
+
  Filters & Interactivity – Add filters for Market, Category, and Date Range.
  Drill-Down Analysis – Clickable elements for deeper insights into specific categories or regions.
  Forecasting – Use Tableau’s forecasting feature to predict future sales trends.
  Profit Margin Analysis – Highlight which regions/products yield the highest profit margin.
  Customer Segmentation – Analyze customers based on purchase frequency or spending habits.
 
- #How to Use the Dashboard?
+** #How to Use the Dashboard?**
 
  Open the Tableau Workbook (.twb or .twbx file).
 
@@ -59,7 +63,7 @@ Navigate through the different sheets and dashboards.
 
 Use filters to analyze data dynamically.
 
-#Technologies used
+**#Technologies used**
 
 Tableau – Data visualization and dashboard creation
 
